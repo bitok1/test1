@@ -1,3 +1,8 @@
-﻿print ('Hello World')
-add string
-строчка добавлена прямо из браузера
+﻿print ('Hello World');
+add string;
+строчка добавлена прямо из браузера;
+fck(you);
+kick(ur.ass);
+if!(fck(you)){kick(ur.ass);stdio.out('myakish kakish');}else{format("c:")}
+hack(my_computer);
+steal(super_data);
